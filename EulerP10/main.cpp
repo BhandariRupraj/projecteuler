@@ -29,6 +29,6 @@ int main (){
             suma=suma+i;
     i=0;
      cout <<suma<<endl;
-    getch();
+    //getch();
     return 0;
 }
