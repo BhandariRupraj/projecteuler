@@ -10,7 +10,7 @@ int main()
         for (b=1; b<=500; b++)
         {
             c=1000-b-a;
-            if (a*a+b*b-c*c == 0 && a<b )
+            if ((a*a+b*b)==c*c && a<b )
             {
 
                 cout << a*b*c << endl;
