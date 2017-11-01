@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/s521059/CLionProjects/Euler Project/EulerP8/main.cpp
+bits/stdc++.h
+C:/Users/s521059/CLionProjects/Euler Project/EulerP8/bits/stdc++.h
+
