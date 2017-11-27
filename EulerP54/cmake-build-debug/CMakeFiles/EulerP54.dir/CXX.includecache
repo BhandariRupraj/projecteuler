@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/s521059/CLionProjects/Euler Project/EulerP54/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+
