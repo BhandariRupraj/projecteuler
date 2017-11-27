@@ -1,0 +1,3 @@
+C:/Users/s521059/CLionProjects/Euler Project/EulerP95/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s521059/CLionProjects/Euler Project/EulerP95/cmake-build-debug/CMakeFiles/EulerP95.dir
+C:/Users/s521059/CLionProjects/Euler Project/EulerP95/cmake-build-debug/CMakeFiles/rebuild_cache.dir
