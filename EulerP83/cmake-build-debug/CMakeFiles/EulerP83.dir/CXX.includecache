@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/s521059/CLionProjects/Euler Project/EulerP83/main.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cctype
+-
+climits
+-
+deque
+-
+queue
+-
+utility
+-
+
